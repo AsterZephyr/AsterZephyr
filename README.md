@@ -1,6 +1,5 @@
 # 👋 Hi there, I'm Qunqingrihe
 
-![Your Avatar](https://github.com/qunqingrihe.png)
 
 ## 📊 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qunqingrihe&show_icons=true&theme=radical)
