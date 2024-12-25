@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Qunqingrihe
+# 👋 Hi there, I'm Aster Zephyr
 
 ## 📊 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qunqingrihe&show_icons=true&theme=radical)
