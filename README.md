@@ -1,9 +1,9 @@
 # 👋 Hi there, I'm Aster Zephyr
 
 ## 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qunqingrihe&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsterZephyr&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qunqingrihe&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsterZephyr&layout=compact&theme=radical)
 
 ## 🛠️ Languages & Tools
 <div>
@@ -22,7 +22,7 @@
 </div>
 
 ## 📈 Activity Graph
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qunqingrihe&theme=react-dark)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AsterZephyr&theme=react-dark)
 
 ## 🔗 Find Me On
 - [LeetCode](https://leetcode.cn/u/qunqingrihe/)
@@ -32,7 +32,6 @@
 ## 📫 Contact Me
 - 📧 Email: [hxz2046084122@outlook.com](mailto:hxz2046084122@outlook.com)
 - 🐦 Twitter: [@maribeth10770](https://x.com/maribeth10770)
-- 
 
 ## 🔍 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=qunqingrihe&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AsterZephyr&theme=radical)
