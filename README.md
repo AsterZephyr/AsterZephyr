@@ -1,37 +1,33 @@
 # 👋 Hi there, I'm Aster Zephyr
 
-## 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsterZephyr&show_icons=true&theme=radical)
+## About Me
+- 🚀 bulefocus 的广告平台后端工程师
+- 🧠 关注程序化广告平台（RTA、DSP）、分布式事务与实时通信
+- 🛠️ 探索高可用、高性能的后端系统设计与实现
+- 📝 博客更新于 [AsterZephyr.xyz](https://www.asterzephyr.xyz/)
 
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AsterZephyr&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsterZephyr&layout=compact&theme=radical)
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 <div>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NLTK-9C4A56?style=flat-square&logo=natural-language-toolkit&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SpaCy-000000?style=flat-square&logo=spacy&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-  <!-- 您可以在这里添加更多徽章 -->
+  <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
 </div>
 
-## 📈 Activity Graph
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AsterZephyr&theme=react-dark)
-
-## 🔗 Find Me On
-- [LeetCode](https://leetcode.cn/u/qunqingrihe/)
-- [博客](https://www.cnblogs.com/amicable)
-- [Twitter](https://x.com/maribeth10770)
-
-## 📫 Contact Me
-- 📧 Email: [hxz2046084122@outlook.com](mailto:hxz2046084122@outlook.com)
+## Connect
+- 🧑‍💻 LeetCode: [qunqingrihe](https://leetcode.cn/u/qunqingrihe/)
+- 📝 博客: [https://www.asterzephyr.xyz/](https://www.asterzephyr.xyz/)
 - 🐦 Twitter: [@maribeth10770](https://x.com/maribeth10770)
 
-## 🔍 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AsterZephyr&theme=radical)
+## Contact
+- 📧 Email: [hxz2046084122@outlook.com](mailto:hxz2046084122@outlook.com)
