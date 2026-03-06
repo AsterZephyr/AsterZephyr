@@ -1,21 +1,18 @@
-# Hi, I'm Frank (AsterZephyr)
+# I'm AsterZephyr
 
-**AdTech Backend Engineer -> Ad Algorithm Engineer in transition**
-
-Building real-time bidding systems by day, architecting AI Agent platforms by night.
+Ad platform backend engineer @ BlueFocus, working on DSP/RTB systems in Go.
 
 ## What I Do
 
-**Programmatic Advertising @ BlueFocus** -- I build and maintain a full-stack DSP (Demand-Side Platform) that processes real-time bidding at 200ms SLA. The system spans 12+ microservices in Go, covering the entire RTB pipeline: SSP protocol gateway, ad index hot-reload, 35+ filter chain, CTR/CVR prediction via TF Serving, budget pacing with PI controller, and AB experimentation.
+**DSP Backend @ BlueFocus** -- Working on a Go-based RTB bidding engine with 100ms full-pipeline latency. Day-to-day involves the bidding pipeline (filter chain, CTR/CVR prediction via TF Serving, bid decision), feature engineering on the Serving side, and ad index maintenance.
 
-**AI Agent Platform @ ANIMO-TECH** (Side project) -- Co-architecting a production Agent platform with a self-built execution engine in Go, featuring a 3-goroutine SSE pipeline, virtual file system with mount semantics, and a self-hosted AI gateway routing to 40+ LLM providers.
+**AI Agent Platform** (Side project) -- Building an Agent backend in Go with SSE streaming, and a self-hosted LLM gateway for multi-provider routing.
 
 ## Currently
 
-- Transitioning from **AdTech Engineering** to **AdTech Algorithm** -- the goal is end-to-end model ownership
-- Deep-diving into CTR/CVR model training: DeepFM, DCNv2, feature engineering (IV/WoE/SHAP)
-- Studying recommendation systems systematically: 50+ papers tracked from FM to LLM4Rec
-- Positioning as **"the algorithm engineer who deeply understands Serving infrastructure"**
+- Learning CTR/CVR model training: DeepFM, DCNv2, feature engineering
+- Reading recommendation system papers, from FM to LLM4Rec
+- Moving from pure engineering toward understanding the algorithm side
 
 ## Tech Stack
 
@@ -40,16 +37,6 @@ Building real-time bidding systems by day, architecting AI Agent platforms by ni
   <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </div>
-
-## Domains I Think About
-
-| Area | Depth |
-|------|-------|
-| RTB/DSP Systems | Production -- built the full pipeline from bid request to ad rendering |
-| CTR/CVR Prediction | Training + Serving -- from feature engineering to TF Serving integration |
-| Recommendation Systems | Research -- 50+ papers, from classic FM to LLM4Rec |
-| AI Agent Architecture | Production -- custom execution engine, VFS, SSE pipeline, AI gateway |
-| Reinforcement Learning | Study -- completed full textbook (MAB through PPO/SAC to offline RL) |
 
 ## GitHub Stats
 
