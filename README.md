@@ -14,13 +14,11 @@ At [BlueFocus/Domob](https://www.bluefocus.com.cn/), I own the full programmatic
 
 ## Focus
 
-```
-Search, Ads & Recommendation     ML Inference Engineering     LLM Inference & Agent
-├─ CTR/CVR multi-objective       ├─ TF Serving at scale       ├─ KV Cache optimization
-├─ Retrieval → Rank → Rerank    ├─ 100ms latency SLA         ├─ Quantization & parallelism
-├─ Bid strategy optimization     ├─ Feature pipelines         ├─ Agent orchestration
-└─ Real-time bidding systems     └─ Model calibration         └─ vLLM / SGLang internals
-```
+**Search, Ads & Recommendation** — CTR/CVR multi-objective modeling, retrieval-rank-rerank pipeline, bid strategy optimization, real-time bidding systems.
+
+**ML Inference Engineering** — TensorFlow Serving at scale, 100ms latency SLA, feature pipelines, model calibration.
+
+**LLM Inference & Agent** — KV Cache optimization, quantization & parallelism, agent orchestration, vLLM / SGLang internals.
 
 ## Writing
 
